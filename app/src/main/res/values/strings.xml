@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tesla Auth</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Tesla Auth</string>
+    <string name="second_fragment_label">Sign in with Tesla</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Sign in with Tesla to generate Tokens</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="action_sign_in">Sign in with Tesla</string>
+    <string name="action_about">About</string>
+    <string name="access_token_copied">Access token copied to clipboard.</string>
+    <string name="refresh_token_copied">Refresh token copied to clipboard.</string>
+</resources>

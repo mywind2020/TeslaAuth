@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tesla Auth</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Tesla Auth</string>
+    <string name="second_fragment_label">特斯拉登录</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">登录到Tesla网站来获取令牌</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="action_sign_in">登录到Tesla</string>
+    <string name="action_about">关于</string>
+    <string name="access_token_copied">访问令牌已复制到剪贴版</string>
+    <string name="refresh_token_copied">刷新令牌已复制到剪贴版</string>
+</resources>
